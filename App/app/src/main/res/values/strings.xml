@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Siyu Liu\'s Grocery</string>
+    <string name="title_input_label">Title</string>
+    <string name="title_input_text">Angus Beef</string>
+    <string name="description_input_label">Description</string>
+    <string name="description_input_text">Sirloin Tip Beef Steak\n0.67 \- 0.95 kg\n$21.98/1kg</string>
+    <string name="brand_input_label">Brand</string>
+    <string name="brand_input_text">Your Fresh Market</string>
+    <string name="category_input_label">Category</string>
+    <string name="category_input_text">Meat</string>
+    <string name="image_reference">Image from freepic.com</string>
+    <string name="image_content_description">Sirloin Tip Beef Steak</string>
+    <string name="date_input_label">Set the Date</string>
+    <string name="expiry_date_input_label">Expiry Date</string>
+    <string name="reminder_date_input_label">Reminder Date</string>
+    <string name="expiry_date_input_text">Sat May 26 16:00:00\nEST 2023</string>
+    <string name="reminder_date_input_text">Sat May 25 16:00:00\nEST 2023</string>
+    <string name="save_button">SAVE</string>
+</resources>
